@@ -1,2 +1,9 @@
 # Medicine-recommendation-system
-This project aims to create a medicine recommendation system based on symptoms provided by the user. The system is built using machine learning models trained on a dataset of symptoms and their corresponding diagnoses. The frontend is designed using Bootstrap for an intuitive user interface.
+This project aims to create a medicine recommendation system based on symptoms provided by the user. The system is built using machine learning models trained on a dataset of symptoms and their corresponding diagnosis. The frontend is designed using Bootstrap for an intuitive user interface.
+
+
+Process to Build a Recommendation System Using Machine Learning:
+Step 1: Data Collection and Preparation. The foundation of a recommendation system is robust data. ...
+Step 2: Implementing the Recommendation Algorithm. ...
+Step 3: Building the Recommendation Model. ...
+Step 4: Integration and Deployment.
